@@ -2,9 +2,6 @@ plugins {
     id("io.github.siloverse.spring-boot-application") version "1.0.2"
 }
 
-group = "io.github.siloverse"
-version = "0.1.0"
-
 application {
     mainClass.set("io.github.siloverse.ApplicationKt")
 }
